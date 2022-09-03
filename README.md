@@ -1,5 +1,5 @@
 # E-Commerce-Database-
-# Ecommerce Data base from Scratch for beginners 
+Ecommerce Data base from Scratch for beginners 
 ## Creating a Senario 
 A huge company want to create e-commerce to display these different products on the store easily to customers, so:
 
